@@ -22,6 +22,7 @@ data/processed/anomaly_results.csv
 data/processed/pricing.db
 data/vectorstore/index.npy
 data/vectorstore/chunks.json
+notebooks/data/
 
 # Jupyter
 .ipynb_checkpoints/

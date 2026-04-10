@@ -1,4 +1,4 @@
-# Pharma Pricing Copilot 💊
+# Pharma Pricing Copilot
 
 An AI-powered pharmaceutical pricing analytics platform that combines **ensemble anomaly detection**, **Retrieval-Augmented Generation (RAG)** over regulatory documents, and a **Claude-powered conversational agent** — all wrapped in an interactive Streamlit dashboard.
 
